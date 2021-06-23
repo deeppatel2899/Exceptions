@@ -1,6 +1,5 @@
 package com.deeppatel;
 
-import java.sql.SQLOutput;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
